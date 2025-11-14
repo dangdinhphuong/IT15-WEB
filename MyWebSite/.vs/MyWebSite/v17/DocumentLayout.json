@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\botre\\Desktop\\Thu\u00EA T6 kh\u00E1ch K21\\Th\u00E1ng 8\\Sang\\IT15_De1\\MyWebSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C47BBF-D6FE-4FED-BBF0-32CA8B84B6A0}|MyWebSite.csproj|c:\\users\\botre\\desktop\\thu\u00EA t6 kh\u00E1ch k21\\th\u00E1ng 8\\sang\\it15_de1\\mywebsite\\admins\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B4C47BBF-D6FE-4FED-BBF0-32CA8B84B6A0}|MyWebSite.csproj|solutionrelative:admins\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834C5D71-4791-44DB-A32D-5170F6371CCE}|..\\MyWebSite.Data\\MyWebSite.Data.csproj|c:\\users\\botre\\desktop\\thu\u00EA t6 kh\u00E1ch k21\\th\u00E1ng 8\\sang\\it15_de1\\mywebsite.data\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C47BBF-D6FE-4FED-BBF0-32CA8B84B6A0}|MyWebSite.csproj|c:\\users\\botre\\desktop\\thu\u00EA t6 kh\u00E1ch k21\\th\u00E1ng 8\\sang\\it15_de1\\mywebsite\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4C47BBF-D6FE-4FED-BBF0-32CA8B84B6A0}|MyWebSite.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.aspx",
+              "DocumentMoniker": "C:\\Users\\botre\\Desktop\\Thu\u00EA T6 kh\u00E1ch K21\\Th\u00E1ng 8\\Sang\\IT15_De1\\MyWebSite\\Admins\\User.aspx",
+              "RelativeDocumentMoniker": "Admins\\User.aspx",
+              "ToolTip": "C:\\Users\\botre\\Desktop\\Thu\u00EA T6 kh\u00E1ch K21\\Th\u00E1ng 8\\Sang\\IT15_De1\\MyWebSite\\Admins\\User.aspx",
+              "RelativeToolTip": "Admins\\User.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-13T02:36:01.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\botre\\Desktop\\Thu\u00EA T6 kh\u00E1ch K21\\Th\u00E1ng 8\\Sang\\IT15_De1\\MyWebSite.Data\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\MyWebSite.Data\\UserController.cs",
+              "ToolTip": "C:\\Users\\botre\\Desktop\\Thu\u00EA T6 kh\u00E1ch K21\\Th\u00E1ng 8\\Sang\\IT15_De1\\MyWebSite.Data\\UserController.cs",
+              "RelativeToolTip": "..\\MyWebSite.Data\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:34:22.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\botre\\Desktop\\Thu\u00EA T6 kh\u00E1ch K21\\Th\u00E1ng 8\\Sang\\IT15_De1\\MyWebSite\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\botre\\Desktop\\Thu\u00EA T6 kh\u00E1ch K21\\Th\u00E1ng 8\\Sang\\IT15_De1\\MyWebSite\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-13T02:32:51.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
