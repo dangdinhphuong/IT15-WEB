@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MyWebSite"
+    "\\MyWebSite",
+    "\\MyWebSite\\Admins"
   ],
-  "SelectedNode": "\\MyWebSite\\MyWebSite.sln",
+  "SelectedNode": "\\MyWebSite\\Admins\\User.aspx",
   "PreviewInSolutionExplorer": false
 }
